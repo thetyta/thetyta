@@ -16,3 +16,5 @@ I'm a Computer Science student at Unochapecó and a Full-stack Developer. Alongs
 # 📊 GitHub Stats:
 
 ![](./profile/stats.svg)
+#
+![](./profile/canva.png)
